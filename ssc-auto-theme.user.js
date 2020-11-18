@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         SSC auto theme
-// @namespace    ssc
+// @namespace    ssc-auto-theme
 // @version      1.0.0
 // @description  Automatically switches between dark and light theme
 // @author       https://github.com/makbol
+// @downloadURL  https://github.com/makbol/ssc-auto-theme/raw/main/ssc-auto-theme.user.js
+// @updateURL    https://github.com/makbol/ssc-auto-theme/raw/main/ssc-auto-theme.user.js
+// @supportURL   https://github.com/makbol/ssc-auto-theme/issues
 // @match        https://www.skyscrapercity.com/*
 // @grant        unsafeWindow
 // @require      https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.8.0/suncalc.min.js
