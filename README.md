@@ -1,3 +1,5 @@
+![screenshot](/doc/screenshot.png)
+
 Based on current time changes theme on skyscrapercity forum. Currently location is hardcoded as middle of Poland. Should work for most of Europe.
 
 # Requirements
